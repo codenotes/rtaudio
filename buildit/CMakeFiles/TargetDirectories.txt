@@ -1,0 +1,15 @@
+C:/repos/rtaudio-4.1.1/buildit/tests/CMakeFiles/testall.dir
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/NightlyMemoryCheck.dir
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/rtaudio_static.dir
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/Experimental.dir
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/Nightly.dir
+C:/repos/rtaudio-4.1.1/buildit/tests/CMakeFiles/audioprobe.dir
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/Continuous.dir
+C:/repos/rtaudio-4.1.1/buildit/tests/CMakeFiles/playraw.dir
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/ALL_BUILD.dir
+C:/repos/rtaudio-4.1.1/buildit/tests/CMakeFiles/playsaw.dir
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/rtaudio.dir
+C:/repos/rtaudio-4.1.1/buildit/tests/CMakeFiles/teststops.dir
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/ZERO_CHECK.dir
+C:/repos/rtaudio-4.1.1/buildit/tests/CMakeFiles/duplex.dir
+C:/repos/rtaudio-4.1.1/buildit/tests/CMakeFiles/record.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\repos\rtaudio-4.1.1\buildit\CMakeFiles\ec1d3228490b1e9ec882d3914df09efe\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E300CFBB-6B57-3D27-8262-54653830809B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

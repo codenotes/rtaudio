@@ -1,0 +1,26 @@
+# CMake generation dependency list for this directory.
+C:/repos/rtaudio-4.1.1/CMakeLists.txt
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/3.4.2/CMakeSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeSystemSpecificInitialize.cmake
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/3.4.2/CMakeCCompiler.cmake
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/3.4.2/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC.cmake
+C:/repos/rtaudio-4.1.1/buildit/CMakeFiles/3.4.2/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CTest.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CTestUseLaunchers.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CTestTargets.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/DartConfiguration.tcl.in
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckFunctionExists.cmake

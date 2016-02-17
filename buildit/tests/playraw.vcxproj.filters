@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\repos\rtaudio-4.1.1\tests\playraw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dtmf_cpp\DtmfGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dtmf_cpp\example.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\dtmf_cpp\DtmfDetector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lbsndtest.cpp" />
+    <ClCompile Include="dtml2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\repos\rtaudio-4.1.1\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB494B70-6B62-3C43-9BA5-71BA78639707}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
